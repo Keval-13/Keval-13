@@ -17,9 +17,15 @@ Frontend Development<br>
 + Tailwind CSS - Utility-first styling for modern web apps<br>
 + Bootstrap - Rapid design and responsive development<br>
 
+Backend Development<br>
++ Node.js & Express.js – Building RESTful APIs and server-side logic
++ MongoDB – NoSQL database for storing and managing data
+
 Backend as a Service<br>
 + Appwrite - Streamlining backend tasks like authentication, database management, and real-time updates<br>
 
+Full Stack Development<br>
++ MERN Stack (MongoDB, Express.js, React.js, Node.js) – End-to-end web development
 
 ## **Major Project**<br>
 [Typing Master](https://kvl-13.github.io/typingmaster): A web-based application designed to help users improve their typing skills.
