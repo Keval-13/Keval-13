@@ -9,7 +9,7 @@ My approach to coding is rooted in curiosity and a desire to constantly improve.
 
 
 ## **Skills**<br>
-Programming Languages: C, C++, Java, Javascript<br>
+Programming Languages: C, C++, Java, Javascript, PHP<br>
 
 Frontend Development<br>
 + React.js - Building dynamic and responsive user interfaces<br>
@@ -27,20 +27,29 @@ Backend as a Service<br>
 Full Stack Development<br>
 + MERN Stack (MongoDB, Express.js, React.js, Node.js) – End-to-end web development
 
+WebSocket
++ Socket.IO for real-time communication.<br>
+
+Tools
++ Postman, Git, Github<br>
+
 ## **Major Project**<br>
-[Typing Master](https://kvl-13.github.io/typingmaster): A web-based application designed to help users improve their typing skills.
-The game challenges users with timed typing tests and provides instant feedback on their performance.<br>
+[Sync Beats](https://syncbeats-nine.vercel.app/)
++ Built a real-time MERN-based web app where users create or join rooms to share a collaborative music queue.<br>
++ Users add YouTube songs using URL, upvote or downvote tracks, and the highest-voted song plays next.<br>
++ Integrated Socket.IO for real-time queue updates and vote synchronization across all users.<br>
 
-Features:
-+ Measures typing speed in words per minute (WPM)<br>
-+ Calculates and displays typing accuracy<br>
-+ User-friendly interface with real-time feedback<br>
-+ Tech Stack: JavaScript, React.js, CSS, Tailwind CSS<br>
+[InkRoom](https://inkroom.vercel.app/)
++ Created a MERN-based web app where users can create or join rooms to collaborate on a shared canvas. <br>
++ Creator of room can share his/her ideas by drawing on screen.<br>
++ Implemented real-time drawing and chat using Socket.IO for seamless, interactive communication. <br>
 
-[KBC](https://kvl-13.github.io/kbc-quiz): A quiz-based game inspired by the popular "Kaun Banega Crorepati" TV show. Users answer multiple-choice questions to test their knowledge and aim to reach the highest score.<br>
+[Student Attendance Management System](https://student-ams.vercel.app/)
++ Developed a MERN-based attendance system with Admin and Faculty dashboards for role-specific management. 
++ Enabled faculty to mark attendance by selecting students—no typing needed— for fast, error-free management. 
++ Faculty can view or download attendance records in PDF format. 
++ Included secure login, role-based access, and a user-friendly UI.
 
-Features:
-+ Multiple-choice questions with increasing difficulty<br>
-+ Tracks and displays user progress and score<br>
-+ Engaging gameplay with a timer for added challenge<br>
-+ Tech Stack: JavaScript, React.js, CSS, Tailwind CSS<br>
+[Typing Master](https://typingmaster-seven.vercel.app/)
++ A web site for 1-minute typing tests that shows WPM, errors, and accuracy after test. <br>
++ Built a responsive, user-friendly interface using React and Bootstrap. <br>
